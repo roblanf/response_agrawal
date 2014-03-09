@@ -7,7 +7,7 @@ Point 4 in the article says this:
 and later he says that OA journals provide "no stamp of rigor or potential impact". 
 
 
-# Many open access journals highly selective
+# Many open access journals are highly selective
 
 In a recent letter, Agrawal [1] outlines his opinions on open access publishing. In it, he incorrectly conflates open-access and non-selective journals. This is a common misconception, and we would like to set the record straight: many open-access journals are highly selective.
 
