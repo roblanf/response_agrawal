@@ -15,7 +15,9 @@ Agrawal [1] states that  "a publication in an open-access journal only imparts [
 
 To illustrate the diversity of publishing policies in open access journals, and in particular to highight that many are highly selective, we have compiled a table of the publication policies of popular open access journals in ecology and evolution (Table 1). [NB perhaps we should get all the IFs from ISI, then score journals as open or not using the Directory of Open Access Journals, then look up the policies of as many as we can find. We can also then plot the distribution of impact factors in OA versus non-OA journals. If there are too many journals for a table in the paper, we can summarise the data as 'highly selective', 'selective', or 'not selective', and just plot the numbers].
 
-We agree with Agrawal that researchers should carefully consider the options when deciding where to publish. The decision affects who will see the work and how it (and the researcher who produces it) will be judged. It therefore behooves us all to be aware of journals' publishing policies, both for our own science and in our judgement of others'. This is particularly important as the publishing landscape is changing rapidly, and hiring and granting committees are trying to keep pace.
+We agree with Agrawal that researchers should carefully consider the options when deciding where to publish. The decision affects who will see the work and how it (and the researcher who produces it) will be judged. And while journal-level metrics, such as the Impact Factor (IF), have many limitations, they are a reasonable predictor of an article's merit and future citation count [2]. It therefore behooves us all to be aware of journals' publishing policies, both for our own science and in our judgement of others'. This is particularly important as the publishing landscape is changing rapidly, and hiring and granting committees are trying to keep pace.
 
 
 [1] Agrawal citation
+
+[2] Eyre-Walker and Stoletzki
