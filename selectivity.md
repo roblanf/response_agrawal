@@ -1,12 +1,3 @@
-# A comment on selectivity versus open access
-
-Point 4 in the article says this: 
-
-"when a hiring committee examines a junior scientist’s CV, a publication in a traditional journal carries with it the weight associated with the journal’s reputation for selectivity, rigor, novelty, and yes, likely impact. On the surface, a publication in an open-access journal only imparts ‘not scientifically flawed"
-
-and later he says that OA journals provide "no stamp of rigor or potential impact". 
-
-
 # Many open access journals are highly selective
 
 In a recent letter, Agrawal [1] outlines his opinions on open access publishing. In it, he incorrectly conflates open-access and non-selective journals. Specifically, Agrawal [1] states that  "a publication in an open-access journal only imparts [the information that it is] ‘not scientifically flawed'", and later that open-access journals provide "no stamp of rigor or potential impact". Unfortunately this is a common misconception, and we would like to set the record straight: many open-access journals are highly selective.
